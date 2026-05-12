@@ -27,7 +27,7 @@ function App() {
                             letterSpacing: 0.3,
                         }}
                     >
-                        AI Resume Screening & Job Match
+                        ATS Resume Screening & Job Match
                     </Typography>
                 </Toolbar>
             </AppBar>
